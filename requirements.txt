@@ -1,0 +1,10 @@
+# Data Scientists
+pandas
+scikit-learn
+
+# ML engineers
+uvicorn
+fastapi
+joblib
+
+#MLops
